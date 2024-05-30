@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085431168877",
+    "project_id": "officeapp-pushnotificati-185e7",
+    "storage_bucket": "officeapp-pushnotificati-185e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085431168877:android:0036a643f0b6aa37a52464",
+        "android_client_info": {
+          "package_name": "com.example.officeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbaUXaBIB35abaqhiCGB1PpPeER3dnPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
